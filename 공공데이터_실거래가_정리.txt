@@ -1,0 +1,40 @@
+<<<검색URL>>>
+https://www.data.go.kr/tcs/dss/selectDataSetList.do?dType=API&keyword=%EC%8B%A4%EA%B1%B0%EB%9E%98%EA%B0%80&detailKeyword=&publicDataPk=&recmSe=N&detailText=&relatedKeyword=&commaNotInData=&commaAndData=&commaOrData=&must_not=&tabId=&dataSetCoreTf=&coreDataNm=&sort=_score&relRadio=&orgFullName=&orgFilter=&org=&orgSearch=&currentPage=1&perPage=10&brm=&instt=&svcType=&kwrdArray=&extsn=&coreDataNmArray=&pblonsipScopeCode=
+
+<<실거래가격지수>>
+한국부동산원_실거래가격지수 통계 조회 서비스
+https://www.data.go.kr/data/15059416/openapi.do
+
+한국부동산원_아파트실거래가격지수 조회 서비스
+https://www.data.go.kr/data/15056549/openapi.do
+
+<< 매매>>
+
+국토교통부_아파트매매 실거래자료
+https://www.data.go.kr/data/15058747/openapi.do
+
+국토교통부_아파트매매 실거래 상세 자료
+https://www.data.go.kr/data/15057511/openapi.do
+
+국토교통부_연립다세대 매매 실거래자료
+https://www.data.go.kr/data/15058038/openapi.do
+
+국토교통부_단독/다가구 매매 실거래 자료
+https://www.data.go.kr/data/15058022/openapi.do
+
+국토교통부_오피스텔 매매 신고 조회 서비스
+https://www.data.go.kr/data/15058452/openapi.do
+
+<<전월세>>
+
+국토교통부_아파트 전월세 자료
+https://www.data.go.kr/data/15058017/openapi.do
+
+국토교통부_연립다세대 전월세 자료
+https://www.data.go.kr/data/15058016/openapi.do
+
+국토교통부_단독/다가구 전월세 자료
+https://www.data.go.kr/data/15058352/openapi.do
+
+국토교통부_오피스텔 전월세 신고 조회 서비스
+https://www.data.go.kr/data/15059249/openapi.do
